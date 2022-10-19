@@ -1,2 +1,2 @@
 # Pizzaria
-Projeto de C214
+Pizzaria em fase de criação
